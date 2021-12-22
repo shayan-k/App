@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618662895556",
+    "firebase_url": "https://user-app-375e9.firebaseio.com",
+    "project_id": "user-app-375e9",
+    "storage_bucket": "user-app-375e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618662895556:android:f9c94dcd965ec8ca370e91",
+        "android_client_info": {
+          "package_name": "com.example.myapp_sherkat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618662895556-nnh0bhkmmuca1trqj8vjsv5hr1aemcgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKM5v3TE5Jd8CssifIyIiXYOPMNiL4To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618662895556-nnh0bhkmmuca1trqj8vjsv5hr1aemcgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
